@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "archiver": "~0.4.10",
-    "async": "~0.2.8",
+    "async": "~0.9.2",
     "fast-image-size": "*",
     "lodash": "^2.4.1",
     "readable-stream": "~1.0.0",
