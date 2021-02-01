@@ -39,7 +39,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "archiver": "~0.4.10",
+    "archiver": "~0.21.0",
     "async": "~0.2.8",
     "fast-image-size": "*",
     "lodash": "^2.4.1",
